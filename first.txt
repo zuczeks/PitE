@@ -1,3 +1,7 @@
 My 
 first
-file
+file and now
+
+Added 
+new 
+lines
